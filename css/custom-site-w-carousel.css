@@ -1,0 +1,30 @@
+body {
+    font: 1.25em Seravek Bold Italic, sans-serif;
+}
+
+.my-masthead {
+    background-color: #1abc9c;
+    color: #ffffff;
+}
+
+.space-tb {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.mybackground3 {
+    background-color: #1abc9c;
+    color: #ffffff;
+    padding-bottom: 3rem;
+}
+
+.carousel-inner > .carousel-item > img {
+    margin: auto;
+    width: 60%;
+}
+
+@media (max-width: 575.98px) {
+    .carousel-inner > .carousel-item > img {
+        width: 90%;
+    }
+}

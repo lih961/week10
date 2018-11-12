@@ -1,0 +1,44 @@
+body {
+    font: 1.25em Snell Roundhand Regular, sans-serif;
+}
+
+.dropdown-menu {
+    left: -2rem;
+}
+
+
+.my-masthead {
+    background-color: #835f45;
+    color: #ffffff;
+}
+
+.space-tb {
+    padding-bottom: 2rem;
+    padding-top: 2rem;
+}
+
+.mybackground1 {
+    background: url(img/background.jpg) no-repeat center center fixed;
+    background-size: cover;
+    color: #ffffff;
+    margin-top: -1rem;
+    padding-bottom: 4rem;
+    width: 100%;
+}
+
+.mybackground3 {
+    background-color: #011c01;
+    color: #ffffff;
+    padding-bottom: 3rem;
+}
+
+.carousel-inner > .carousel-item > img {
+    margin: auto;
+    width: 60%;
+}
+
+@media (max-width: 575.98px) {
+    .carousel-inner > .carousel-item > img {
+        width: 90%;
+    }
+}
