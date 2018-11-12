@@ -1,5 +1,5 @@
 body {
-    font: SignPainter HouseScript, sans-serif;
+    font: 1.25em Snell Roundhand, sans-serif;
 }
 
 .dropdown-menu {
@@ -18,7 +18,7 @@ body {
 }
 
 .mybackground1 {
-    background: url("img/background.jpg") no-repeat center center fixed;
+    background: url("background.jpg") no-repeat center center fixed;
     background-size: cover;
     color: #ffffff;
     margin-top: -1rem;
